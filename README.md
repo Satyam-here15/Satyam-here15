@@ -121,15 +121,7 @@ fun_fact : I think in microservices even when ordering food 🍕
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Satyam-here15&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
