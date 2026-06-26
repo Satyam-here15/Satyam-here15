@@ -133,6 +133,16 @@ fun_fact : I think in microservices even when ordering food 🍕
 
 ---
 
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem-ruddy-eight.vercel.app/api/spotify)](https://open.spotify.com/user/316inharkpscejh2jeah6bzjbkqm)
+
+</div>
+
+---
+
 ## 💬 Dev Quote of the Day
 
 <div align="center">
