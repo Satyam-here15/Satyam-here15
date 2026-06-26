@@ -133,9 +133,17 @@ fun_fact : I think in microservices even when ordering food 🍕
 
 ---
 
+## 💬 Dev Quote of the Day
+
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
 
 ⭐ Star some repos if you find them useful!
 
